@@ -2,6 +2,8 @@
 1. Clone  o repositório
 2. Use o comando npm install para instalar todas as dependencias
 3. Use o npm start para rodar o projeto
+
+### OBS: API básica porém funcional de um CRUD
 ## Endpoints de Receitas
 
 ### Obter todas as receitas
